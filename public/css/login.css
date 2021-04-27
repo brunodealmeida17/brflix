@@ -1,0 +1,18 @@
+body {
+    background-color: #000;
+}
+
+.navbar {
+    background-color: #000;
+}
+
+img {
+    width: 120px;
+}
+
+.card-header {
+    color: red;
+    font-size: 10pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}

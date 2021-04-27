@@ -1,0 +1,43 @@
+body {
+    background-color: #1C1C1C;
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+    font-size: 20pt;
+}
+
+h4 {
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.navbar {
+    background-color: #000000;
+}
+
+img {
+    width: 120px;
+}
+
+.navbar-nav {
+    font-size: 15pt;
+}
+
+.navbar-brand {
+    width: 100px;
+}
+
+.img-responsive {
+    height: 60px;
+    object-fit: contain;
+}
+
+.dropdown-item {
+    font-size: 14pt;
+    color: rgb(2, 2, 2);
+}
+
+.col-auto {
+    color: black;
+}
